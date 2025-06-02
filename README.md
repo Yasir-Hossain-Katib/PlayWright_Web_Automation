@@ -1,4 +1,4 @@
-# Playwright Automation - DailyFinance
+# Playwright Web Automation
 
 ## Project Description
 This project automates the testing of the [DailyFinance](https://dailyfinance.roadtocareer.net/) web application using Playwright JS. The test suite covers the following functionalities:
